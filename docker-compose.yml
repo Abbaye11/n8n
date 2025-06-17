@@ -18,3 +18,7 @@ services:
     volumes:
       - n8n_data:/home/node/.n8n
       - ./local-files:/files
+networks:
+  abbaye11:
+    name: abbaye11
+    external: true
