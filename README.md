@@ -2,4 +2,4 @@
 cat ~/.ssh/github-actions
 
 ### First github clone
-https://[user]:[password]@github.com/Abbaye11/kestra.git
+https://[user]:[password]@github.com/Abbaye11/n8n.git
